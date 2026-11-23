@@ -1,0 +1,1 @@
+# gerador-de-assinaturas-klios-federa.vercel.app
